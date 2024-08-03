@@ -8,7 +8,7 @@ Monopoly GO! Bot is a Python script designed to automate gameplay in the mobile 
 - Destroys buildings
 - Escapes from jail
 - Upgrades buildings
-- Executes bank heists (mimics scratch card activities to win money)
+- Executes bank heists
 - Resizes the screen
 - Dismisses annoying pop-ups
 - Collects quest rewards
