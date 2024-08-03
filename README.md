@@ -26,3 +26,6 @@ The Monopoly GO! Bot is created for educational and research purposes to demonst
 5. Install Python and pip.
 6. Install the required dependencies with `pip install -r requirements.txt`.
 7. Launch the bot using PowerShell with the `start.ps1` script.
+
+## Credits
+This project was minimally inspired by the work of lewisgibson, with independent enhancements and features added.
